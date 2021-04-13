@@ -1,0 +1,4 @@
+- A place for ipk packets compiled based on Micro Light router hardware . 
+- Compile your packages based on mipsel_24kc 
+- Linux kernel version 4.14.63
+- Stable openwrt release or v18.06
